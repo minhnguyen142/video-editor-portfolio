@@ -176,6 +176,7 @@ main>#about>ul>li>h3 {
 
 main>#work>.project {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     gap: 50px;
     align-items: center;
